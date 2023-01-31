@@ -1,5 +1,5 @@
 const React = require('react')
-const Def = require('../default') //double .. 
+const Def = require('../default') //double .. to access  
 
 function index (data) {
     let placesFormatted = data.places.map((place) => {
