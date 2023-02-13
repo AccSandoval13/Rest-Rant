@@ -10,7 +10,7 @@ function Home() {
     <Def>
 
       <main>
-        <h1>HOME</h1>
+        <h1> REST-Rant </h1>
         <div>
           <img src="/images/chia-fruit-drink.jpeg" alt="Chia Fruit Shake"  style={{ width: "485px", height: "400px" }} />
           </div> 
